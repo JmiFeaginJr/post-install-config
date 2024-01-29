@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img src="https://i.imgur.com/2izLZM4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Our agents are meticulously assigned to their respective departments and teams, ensuring seamless alignment with organizational structure and operational objectives. This systematic allocation facilitates efficient collaboration and coordination within designated teams, optimizing workflow and productivity.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/V9WqVwi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The diverse array of help topics empowers users to select a pertinent category when initiating a new ticket, enabling them to articulate their current circumstances and assess the severity of the issue with precision and clarity.
 </p>
 <br />
 
@@ -49,6 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://i.imgur.com/rKbsf4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Agents possess the capability to view open tickets specifically assigned to them, simultaneously accessing essential details such as priority levels, the nature of user-reported issues, and the requisite urgency for resolution. This comprehensive visibility equips agents with the necessary insights to prioritize and address user concerns effectively, ensuring timely and efficient resolution.
 </p>
 <br />
