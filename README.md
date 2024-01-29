@@ -46,7 +46,7 @@ The diverse array of help topics empowers users to select a pertinent category w
 
 <p>
 <img src="https://i.imgur.com/DBizehB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/rKbsf4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/GzBlvmB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
